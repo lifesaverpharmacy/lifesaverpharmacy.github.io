@@ -1,0 +1,11 @@
+:root {
+  --med-green: #0a9a73;
+  --light-grey: #f2f2f2;
+}
+body {
+  font-family: roboto;
+  margin-top: 65px;
+}
+.bg-dark {
+  background-color: #055094 !important;
+}
