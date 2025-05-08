@@ -1,4 +1,17 @@
 .page-title {
-    margin-bottom: 30px;
-    padding-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+}
+.ltn__list-item-1 li i {
+  margin-right: 10px;
+  color: var(--med-green);
+  font-size: 26px;
+  float: left;
+}
+.ltn__list-item-1 li {
+  list-style: none;
+  padding: 5px 0;
+}
+.ltn__list-item-1 {
+  padding-left: 0;
 }
