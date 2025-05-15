@@ -1,0 +1,10 @@
+# robots.txt for a generic HTML website
+
+# Allow all search engines to crawl everything
+Sitemap: http://mylifesaver.co.in/sitemap.xml
+User-agent: *
+Disallow: /CNAME
+
+
+# Sitemap location (if you have one)
+# Uncomment and replace with your sitemap URL
